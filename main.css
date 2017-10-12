@@ -1,0 +1,94 @@
+.greencontainer{
+	height: 10000px;
+	background: green;
+	padding: 75px;
+
+}
+body{
+	margin: 0px;
+}
+
+.bluecontainer{
+height: 900px;
+width: 830px;
+border: 3px solid #055791;
+padding: 27px 27px 20px 27px;
+background: #42aaf4;
+}
+
+.yellowcontainer1{
+
+	width: 770px;
+	height: 200px;
+	border:7px solid #fff18e;
+	background: yellow;
+	padding: 50px 0 0 30px;
+}
+.whitecontainer{
+	width: 133px;
+	height: 90px;
+	padding: 20px 25px;
+	border:1px solid #bc0b8f;
+	display: inline-block;
+	background: #fff9fd;
+}
+.redcontainer{
+	width: 90px;
+	height: 70px;
+	padding: 10px 20px;
+	display: inline-block;
+	background: #ed68cb;
+	position: relative;
+}
+.txt{
+	color: white;
+	position: absolute;
+    top: 30%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+.yellowcontainer2{
+	margin-top: 50px;
+	width: 810px;
+	height: 400px;
+	border:7px solid #fff18e;
+	background: yellow;
+	position: relative;
+}
+.bigtext{
+	position: absolute;
+	font-size: 50px;
+    top: 40%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
